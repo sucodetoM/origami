@@ -28,7 +28,7 @@ a:visited{
 }
 
 .bodyimg{
-    position: absolute;
+    position: relative;
 }
 .bodyimg p{
     color:#f7f2f2;
